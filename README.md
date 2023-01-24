@@ -6,5 +6,6 @@ The cassification of the text in a positive and negative way has recently been i
 ### Datasets
 Twitter Tweets Sentiment Dataset: https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset?select=Tweets.csv
 
-### Training Model
-You can use this colab notebook to run train the models and take the result of training on test data.
+### Files
+There is a report of the experiments and results of work.
+Also you can use colab notebook to run train the models and take the result of training on test data.
